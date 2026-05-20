@@ -1,14 +1,3 @@
-# Advanced Professional Streamlit App for Heart Disease Prediction
-
-Create a file named:
-
-```python
-app.py
-```
-
-Paste this FULL professional code:
-
-```python
 import streamlit as st
 import pickle
 import numpy as np

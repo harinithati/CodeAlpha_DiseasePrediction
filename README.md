@@ -63,11 +63,8 @@ Dataset includes:
 
 ## 🌐 Live Demo
 
-Paste your Streamlit deployment link here after deployment.
-
-Example:
 ```bash
-https://your-app-name.streamlit.app
+https://codealphadiseaseprediction-uy8yzur7cyaeczj8q4jmtw.streamlit.app/
 ```
 
 ---
@@ -86,15 +83,7 @@ CodeAlpha_DiseasePrediction/
 └── Heart_Disease_Prediction.ipynb
 ```
 
----
 
-## ▶️ How to Run Locally
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/CodeAlpha_DiseasePrediction.git
-```
 
 ### Install Requirements
 
